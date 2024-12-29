@@ -1,9 +1,9 @@
 <h1>تیم هکری عقرب</h1>
-## Default username and password:
+## یوزر پسورد فعلی:
 
 - `username` : `admin`
 - `password` : `admin`
-- You can edit the config.php file to change the username and password .
+- 
   <br>
 
 ### Installation On Kali Linux
